@@ -11,6 +11,7 @@ body{
     font-family:Arial, Helvetica, sans-serif;
     background-color: #d7fff1; 
     color: #000500;
+     font-size: 25px;
 }
 footer{
     margin-top: 0px;
@@ -70,15 +71,26 @@ p1{
 }
 dt{
     text-decoration: underline;
+    font-size: 26px;
 }
 .test{
     margin-left: 20px;
-    font-size: 15px;
+    font-size: 20px;
     font-style: italic;
+    color:blue;
 }
 #about_me{
     border-bottom: solid;
 }
 h2{
     margin-left: 10px;
+}
+dd{
+     font-size: 20px;
+}
+dl{
+font-family:Arial, Helvetica, sans-serif;
+}
+section{
+    padding: 10%;
 }
